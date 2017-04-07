@@ -1,4 +1,4 @@
-class ketupat{
+class ketupat {
 public static void main(String[]args){
 int l = 1;
 int tingkat = 10;
